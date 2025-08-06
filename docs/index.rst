@@ -3,6 +3,12 @@ How to Log Into Your TotalAV Account – Step-by-Step Guide
 
 Accessing your TotalAV account is essential for managing subscriptions, downloading antivirus software, and viewing billing details. Whether you're a new user or a returning customer, this detailed guide will show you how to **Log Into Your TotalAV Account** on desktop, mobile, or tablet.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://desk-totalav.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with TotalAV</a>
+   </div>
+
 Sometimes login issues can prevent you from reaching your dashboard—but don’t worry. We’ll walk you through troubleshooting tips, password reset steps, and even what to do if your account is locked.
 
 By the end of this guide, you’ll confidently know how to **Log Into Your TotalAV Account**, secure it, and navigate its features.
@@ -207,3 +213,4 @@ To recap:
 Still facing problems? Visit the official `TotalAV Help Center <https://www.totalav.com/help>`_ for live support and resources.
 
 Stay secure and take control of your digital protection today.
+
